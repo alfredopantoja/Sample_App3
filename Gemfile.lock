@@ -141,6 +141,7 @@ GEM
     rb-fchange (0.0.5)
       ffi
     rb-notifu (0.0.4)
+    rb-readline (0.4.2)
     rdoc (3.12.2)
       json (~> 1.4)
     rspec (2.11.0)
@@ -212,6 +213,7 @@ DEPENDENCIES
   rails (= 3.2.13)
   rb-fchange (= 0.0.5)
   rb-notifu (= 0.0.4)
+  rb-readline
   rspec-rails (= 2.11.0)
   sass-rails (= 3.2.5)
   spork (= 0.9.2)
